@@ -1,0 +1,2 @@
+# BlogDino
+http://localhost/blogdino/
